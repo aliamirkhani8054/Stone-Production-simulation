@@ -18,3 +18,7 @@ Printable Reports: Optimized CSS for high-quality industrial PDF reports.
 1. Clone the repository.
 2. Open `index.html` in any modern web browser.
 3. No installation or `npm install` required!
+
+Experience it Online You can try the latest version of the Simulation directly in your browser at:
+
+https://scmgame.com
